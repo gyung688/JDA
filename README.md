@@ -1,6 +1,6 @@
 # JDA
 JDA github practice
 
-Contributors:
-Zhouyang He
+Contributors:\
+Zhouyang He\
 Logan Driver
